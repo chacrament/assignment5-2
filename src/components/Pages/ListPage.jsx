@@ -49,7 +49,7 @@ function ListPage() {
 
   return (
     <div>
-      <h1>Course List</h1>
+      <h1>Courses CRUD</h1>
       <p className="muted">
         API: <code>{API_BASE}</code>
       </p>
